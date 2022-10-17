@@ -7,5 +7,7 @@
     - prettier
     - jest
     - typescript
-4. Test
+4. Jest
     - ESM
+    - TypeScript
+5. TS
