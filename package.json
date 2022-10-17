@@ -6,7 +6,7 @@
     "type": "module",
     "scripts": {
         "start:ts": "ts-node-esm index.ts",
-        "start": "node ./dist/index.ts",
+        "start": "node ./dist/index.js",
         "build": "tsc --watch",
         "test": "jest --watchAll --coverage"
     },
